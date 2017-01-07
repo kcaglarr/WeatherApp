@@ -13,6 +13,7 @@
 		7169BCDC1E2106BA008C5AAD /* WeatherApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7169BCDA1E2106BA008C5AAD /* WeatherApp.xcdatamodeld */; };
 		7169BCDE1E2106BA008C5AAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7169BCDD1E2106BA008C5AAD /* Assets.xcassets */; };
 		7169BCE11E2106BA008C5AAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7169BCDF1E2106BA008C5AAD /* LaunchScreen.storyboard */; };
+		7169BCE91E210C7E008C5AAD /* havadurum-bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7169BCE81E210C7E008C5AAD /* havadurum-bg.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7169BCDD1E2106BA008C5AAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7169BCE01E2106BA008C5AAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7169BCE21E2106BA008C5AAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7169BCE81E210C7E008C5AAD /* havadurum-bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "havadurum-bg.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7169BCD31E2106B9008C5AAD /* AppDelegate.swift */,
 				7169BCD51E2106BA008C5AAD /* ViewController.swift */,
 				7169BCD71E2106BA008C5AAD /* Main.storyboard */,
+				7169BCE81E210C7E008C5AAD /* havadurum-bg.jpg */,
 				7169BCDD1E2106BA008C5AAD /* Assets.xcassets */,
 				7169BCDF1E2106BA008C5AAD /* LaunchScreen.storyboard */,
 				7169BCE21E2106BA008C5AAD /* Info.plist */,
@@ -129,6 +132,7 @@
 			files = (
 				7169BCE11E2106BA008C5AAD /* LaunchScreen.storyboard in Resources */,
 				7169BCDE1E2106BA008C5AAD /* Assets.xcassets in Resources */,
+				7169BCE91E210C7E008C5AAD /* havadurum-bg.jpg in Resources */,
 				7169BCD91E2106BA008C5AAD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
